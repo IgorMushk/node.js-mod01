@@ -11,7 +11,7 @@ project-example
  Create a new project on Node.js
  ![Screenshoot-1](./lesson-1/slides/project-create-steps.jpg)
 
- 1)
+1)
  $ npm init -y 
 
 2)
